@@ -6,4 +6,6 @@ usrname- admin
 passwd-  11111
 
 
+
 copy the database into quizdb
+
