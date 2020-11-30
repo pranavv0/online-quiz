@@ -1,8 +1,9 @@
 # online-quiz
-admin login details--
+admin login details
 
-usrname-admin
+usrname- admin
 
-passwd- 11111
+passwd-  11111
+
 
 copy the database into quizdb
